@@ -1,0 +1,23 @@
+test/.DS_Store
+test/node_modules
+/dist
+
+
+# local env files
+test/.env.local
+test/.env.*.local
+
+# Log files
+test/npm-debug.log*
+test/yarn-debug.log*
+test/yarn-error.log*
+test/pnpm-debug.log*
+
+# Editor directories and files
+test/.idea
+test/.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
